@@ -31,5 +31,5 @@ stone **last_board;
 stone **curr_board;
 stone **next_board;
 
-Group **old_group;
-Group **new_group;
+Group ***old_group;
+Group ***new_group;
